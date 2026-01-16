@@ -132,7 +132,7 @@ a {
 
 /* === Section Styles === */
 .section-padding {
-  padding: 80px 0;
+  padding: 60px 0;
 }
 .bg-light {
   background-color: var(--light-bg) !important;
@@ -250,7 +250,7 @@ a {
 
 /* === Contact Page === */
 .contact-hero {
-  background: #4ea6f5;
+  background: #1e2fa1;
   color: white;
   padding: 60px 0;
   border-radius: 0 0 var(--border-radius-lg) var(--border-radius-lg);
@@ -317,7 +317,7 @@ a {
 /* === Footer === */
 .footer-area {
   margin-top: 40px;
-  padding: 60px 0 10px;
+  padding: 60px 0px 0px;
   background: var(--white);
   border-top: 1px solid #edf2f7;
 }
